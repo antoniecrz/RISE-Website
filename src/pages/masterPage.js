@@ -3,6 +3,6 @@ $w.onReady(() => {
 
     let currentYear = new Date().getFullYear();
 
-    $w("#copyrightText").text = `© ${currentYear} RISE Enterprise. All Rights Reserved.`;
+    $w("#copyrightText").text = `© ${currentYear} RISE Holding. All Rights Reserved.`;
 
 });
